@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yomonicacardoso 🫀
+- Sou aluna do alura
+- Uso o JavaScript
