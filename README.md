@@ -1,4 +1,4 @@
-- 👋 ola eu bem vindos eu sou  @yomonicacardoso 🫀
+- 👋 olá bem vindos eu sou  @yomonicacardoso 🫀
 - Sou aluna do alura
 - Uso o JavaScript
 - para entrar em contato comigo
