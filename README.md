@@ -1,3 +1,6 @@
 - 👋 Hi, I’m @yomonicacardoso 🫀
 - Sou aluna do alura
 - Uso o JavaScript
+- para entrar em contato comigo
+- monica.cardoso05@escla.pr.gov.br
+- @yomonicacardoso 💙
